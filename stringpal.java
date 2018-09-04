@@ -15,11 +15,11 @@ class Ideone
                           reverse = reverse + original.charAt(i);  
                           if (original.equals(reverse))  
                          {
-                             System.out.println("yes");
+                             System.out.println("YES");
 	              }
                           else  
 	              {
-                                System.out.println("no");
+                                System.out.println("NO");
 	               }
     
 	}
