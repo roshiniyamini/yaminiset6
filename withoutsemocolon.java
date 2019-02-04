@@ -9,6 +9,6 @@ class Ideone
 	{
 		Scanner sc=new Scanner(System.in);
 		String S=sc.next();
-		 if(System.out.printf(S) == null) {}
+		 if(System.out.printf(S)== null) {}
 	}
 }
